@@ -16,6 +16,7 @@
 # 剑桥找房
 剑桥找房
 
-https://www.unipol.org.uk
-https://www.mystudenthalls.com/?s=Cambridge
+https://www.unipol.org.uk \
+https://www.mystudenthalls.com/?s=Cambridge \
+https://www.padsforstudents.co.uk/properties/list/ \
 
